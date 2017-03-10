@@ -6,7 +6,8 @@
 
 ## Current Problems with the Page ##
 
-* Project images are not responsive
+* Needs improvement on responsiveness
 * Needs improvement on google maps interaction
+
 
 
