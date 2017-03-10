@@ -15,6 +15,7 @@ bio.display = function() {
     $("#header").prepend(formattedRole);
     $("#header").prepend(formattedName);
     $("#header").append(formattedBioPic);
+    $("#header").append(formattedWelcome);
 
     if (this.skills.length > 0) {
         $("#header").append(HTMLskillsStart);

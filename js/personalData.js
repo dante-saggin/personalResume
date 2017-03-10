@@ -8,7 +8,7 @@ var bio = {
         "linkedIn": "dante-saggin",
         "location": "São Paulo Brasil"
     },
-    "welcomeMessage": "Hi my name is Dante, I'm a expert in Business Integration and focusing in learning new thigs like Front-End development and Machine Learning and many other few things.",
+    "welcomeMessage": "Hi my name is Dante, I'm a specialist in Business Integration, learning new thigs like Front-End development and Machine Learning and many other things.",
     "biopic": "images/me.png",
     "skills": ["Oracle Fusion Middleware", "Technology Architecture", "Software Development", "Performance Test", "Front-End Development", ]
 };
